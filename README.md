@@ -1,3 +1,9 @@
+ SIM7020 SUPPORT, ONLY TESTED WITH MQTT EXMAPLE (WHAT I NEEDED).
+ #define TINY_GSM_MODEM_SIM7020 //in project.
+ 
+ 
+ 
+
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 ![TinyGSM logo](https://cdn.rawgit.com/vshymanskyy/TinyGSM/d18e93dc51fe988a0b175aac647185457ef640b5/extras/logo.svg)
